@@ -37,3 +37,7 @@
   opacity: 0.7;
   margin-bottom: 20px;
 }
+
+.friend__add-btn {
+  color: rgb(58, 58, 58);
+}
